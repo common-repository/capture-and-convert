@@ -1,0 +1,22 @@
+<div class="wpsl_locker_widget_cont wpsl_email_widget">
+
+	<div class="wpsl_customizer_primary_bg">
+
+		<div class="wpsl_left_icon">
+			<span class="wpsl_email_locker_icon dashicons dashicons-lock"></span>
+		</div>
+
+		<div class="wpsl_right_part">
+			<h3 class="wpsl_customizer_heading">Demo Widget Title</h3>
+			<p class="wpsl_customizer_desc">We will never send you spam. Ever! Probably!<br />Get access to this awesome locked feature when you subscribe!</p>
+
+		  <form action="" enctype="multipart/form-data" method="post" class="wpsl_unlock_form">
+				<input type="text" class="wpsl_text_input wpsl_customizer_textbox" name="first_name" placeholder="First Name" />
+		    <input type="email" class="wpsl_text_input wpsl_customizer_textbox" name="email_address" placeholder="E-mail Address" />
+		    <input type="submit" value="Unlock" name="email_method" class="wpsl_submit_button wpsl_customizer_button" />
+		  </form>
+		</div>
+
+	</div>
+
+</div>

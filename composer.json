@@ -1,0 +1,7 @@
+{
+    "require": {
+        "campaignmonitor/createsend-php": "^6.0",
+        "dripemail/drip-php": "^1.2",
+        "abraham/twitteroauth": "^1.0"
+    }
+}

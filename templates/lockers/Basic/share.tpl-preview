@@ -1,0 +1,16 @@
+<div class="wpsl_locker_widget_cont wpsl_share_widget">
+
+	<div class="wpsl_customizer_primary_bg">
+
+		<span class="wpsl_email_locker_icon dashicons dashicons-share"></span>
+		<h3 class="wpsl_customizer_heading">Share to Unlock</h3>
+		<p class="wpsl_customizer_desc">We will never send you spam. Ever! Probably!</p>
+
+		<div class="wpsl_locker_keys_cont">
+			<a href="javascript:;" id="wpsl_facebook_share" class="key_a facebook_share">Share</a>
+			<a href="javascript:;" id="wpsl_twitter_tweet" class="key_a twitter_tweet">Tweet</a>
+		</div>
+
+	</div>
+
+</div>

@@ -1,0 +1,17 @@
+<div class="wpsl_locker_widget_cont wpsl_follow_widget">
+
+	<div class="wpsl_customizer_primary_bg">
+
+		<span class="wpsl_email_locker_icon dashicons dashicons-thumbs-up"></span>
+		<h3 class="wpsl_customizer_heading">Demo Widget Title</h3>
+		<p class="wpsl_customizer_desc">We will never send you spam. Ever! Probably!</p>
+
+		<div class="wpsl_locker_keys_cont">
+			<a href="javascript:;" id="wpsl_instagram_follow" class="key_a instagram_follow">Follow</a>
+			<a href="javascript:;" id="wpsl_youtube_subscribe" class="key_a youtube_subscribe">Subscribe</a>
+			<a href="javascript:;" id="wpsl_twitter_follow" class="key_a twitter_follow">Follow</a>
+		</div>
+
+	</div>
+
+</div>
